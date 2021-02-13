@@ -1,1 +1,2 @@
-[tour](../app-files/index.html)
+[tour](/app-files/index.html)
+
